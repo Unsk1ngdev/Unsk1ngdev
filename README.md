@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Unsk1ngdev
 
-Bienvenido a mi perfil de GitHub. Este espacio refleja mi pasión por el desarrollo y la tecnología. Aquí encontrarás proyectos y contribuciones que destacan mis habilidades y herramientas que manejo.
+Bienvenido a mi perfil de GitHub. Este espacio refleja mi pasión por el desarrollo y la tecnología. Aquí encontrarás proyectos y contribuciones que destacan mis habilidades y herramientas que m[...]
 
 ---
 
@@ -18,6 +18,8 @@ Bienvenido a mi perfil de GitHub. Este espacio refleja mi pasión por el desarro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Terminal" alt="Terminal" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="50" height="50"/>&nbsp;
 
 </div>
 
@@ -25,7 +27,7 @@ Bienvenido a mi perfil de GitHub. Este espacio refleja mi pasión por el desarro
 
 ## 🌟 Sobre mí
 
-Soy un desarrollador apasionado, con experiencia en diferentes áreas del desarrollo, desde backend hasta diseño web. Me encanta aprender sobre nuevas tecnologías y trabajar en entornos creativos mientras optimizo procesos con mis conocimientos en Linux y la terminal.
+Soy un desarrollador apasionado, con experiencia en diferentes áreas del desarrollo, desde backend hasta diseño web. Me encanta aprender sobre nuevas tecnologías y trabajar en entornos creativo[...]
 
 ---
 
