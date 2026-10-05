@@ -67,7 +67,9 @@ Soy un desarrollador apasionado por crear soluciones digitales funcionales, mode
 
 ## 📫 Contacto
 
-Si te interesa colaborar, hablar de tecnología o compartir ideas, puedes contactarme.
+Si te interesa colaborar, hablar de tecnología o compartir ideas, puedes contactarme en Telegram:
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Unsk1ng-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Unsk1ng)
 
 ---
 
